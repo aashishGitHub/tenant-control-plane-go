@@ -1,0 +1,2 @@
+# The repo is run through Docker, so keep text files LF everywhere.
+* text=auto eol=lf
